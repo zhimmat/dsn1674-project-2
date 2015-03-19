@@ -8,6 +8,7 @@ header{
   text-align: center;
   background-color: #e7001d;
   padding-top: 1em;
+  padding-bottom: 1em;
 position: relative;
 }
 h1{
@@ -16,8 +17,9 @@ h1{
   font-family: 'Noto Sans', sans-serif;
   font-size: 2.3rem;
   position: absolute;
-  bottom: 0.4rem;
-  left: 16.1rem;
+  bottom: 1.4rem;
+  left: 16.5rem;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
 }
 
 h2{
@@ -26,14 +28,40 @@ h2{
   font-family: 'Noto Sans', sans-serif;
   font-size: .7rem;
   position: absolute;
-  bottom: 0.4rem;
-  left: 15.9rem;
+  bottom: 1.4rem;
+  left: 16.3rem;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+h3{
+  color: white;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: italic;
+    font-size: 1.5rem;
+    position: absolute;
+    bottom: 10.4rem;
+    left: 14.2rem;
+    text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+p{
+  font-family: 'Noto Sans', sans-serif;
+font-size: .75rem;
+line-height: 1.6em;
+margin: 10px;
+margin-bottom: 1em;
 }
 
 .medallion {
   width: 13%;
   margin-top: 0em;
 }
+
+.banner{
+  width:100%;
+}
+
 
 body{
 margin: 0 auto;
