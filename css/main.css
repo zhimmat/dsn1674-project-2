@@ -149,7 +149,7 @@ h3 {
 }
 
 .rooster-div{
-  background-color: red;
+  background-color: #bc0017;
   color: white;
 }
 
@@ -201,6 +201,9 @@ footer {
   text-decoration: underline;
 }
 
+footer a{
+  color: white;
+}
 .birth{
   text-align: left;
 }
