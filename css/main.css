@@ -111,6 +111,7 @@ p{
     margin-left: 1.25em;
     overflow: hidden;
     clear: left;
+    text-align: center;
 }
 
 h3 {
@@ -149,6 +150,7 @@ h3 {
 
 .rooster-div{
   background-color: red;
+  color: white;
 }
 
 .rooster {
@@ -197,4 +199,8 @@ footer {
   font-family: 'Noto Sans', sans-serif;
   font-size: 0.3em;
   text-decoration: underline;
+}
+
+.birth{
+  text-align: left;
 }
